@@ -1,3 +1,7 @@
 .navigation {
     background-color: black;
 }
+
+.navItems:hover {
+    color: aqua !important;
+}

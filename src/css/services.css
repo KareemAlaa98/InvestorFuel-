@@ -1,0 +1,9 @@
+.serviceCard:hover {
+    transform: translateY(-12px);
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.serviceCard {
+    transition: transform 0.6s;
+}

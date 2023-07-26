@@ -36,22 +36,22 @@ export default function Navigation() {
                     <MDBCollapse className='w-50' show={showNavColor} navbar>
                         <MDBNavbarNav className="mx-auto mb-2 mb-lg-0">
                             <MDBNavbarItem className="text-white">
-                                <MDBNavbarLink href="#" className="text-white font-weight-bold mx-1">
+                                <MDBNavbarLink href="#" className=" navItems text-white font-weight-bold mx-1">
                                     Home
                                 </MDBNavbarLink>
                             </MDBNavbarItem>
-                            <MDBNavbarItem className="text-white font-weight-bold mx-1">
-                                <MDBNavbarLink href="#" className="text-white">
+                            <MDBNavbarItem className="  text-white font-weight-bold mx-1">
+                                <MDBNavbarLink href="#" className="navItems text-white">
                                     Pricing
                                 </MDBNavbarLink>
                             </MDBNavbarItem>
-                            <MDBNavbarItem className="text-white font-weight-bold mx-1">
-                                <MDBNavbarLink href="#" className="text-white">
+                            <MDBNavbarItem className=" text-white font-weight-bold mx-1">
+                                <MDBNavbarLink href="#" className=" navItems text-white">
                                     Contact
                                 </MDBNavbarLink>
                             </MDBNavbarItem>
-                            <MDBNavbarItem className="text-white font-weight-bold mx-1">
-                                <MDBNavbarLink href="#" className="text-white">
+                            <MDBNavbarItem className="  text-white font-weight-bold mx-1">
+                                <MDBNavbarLink href="#" className="navItems text-white">
                                     About
                                 </MDBNavbarLink>
                             </MDBNavbarItem>

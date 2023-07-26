@@ -60,6 +60,9 @@ export default function AppFooter() {
                                 <a href='#!' className='text-reset'>
                                     About
                                 </a>
+                                <a href='#!' className='text-reset'>
+                                    Contact
+                                </a>
                             </p>
                         </MDBCol>
 
