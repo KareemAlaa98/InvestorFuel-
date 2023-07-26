@@ -1,9 +1,7 @@
 # InvestorFuel Home page
 InvestorFuel Home page
 
-https://github.com/KareemAlaa98/InvestorFuel-/assets/128596613/2c4e341a-ed97-4dd6-9b75-b7c4a1466f89
-
-
+https://github.com/KareemAlaa98/InvestorFuel-/assets/128596613/60d2f66b-6333-479e-aa5d-81f3a030f32c
 
 # Getting Started with Create React App
 
